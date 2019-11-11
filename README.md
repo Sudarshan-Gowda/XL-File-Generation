@@ -1,4 +1,4 @@
-# Basic Emaple of QR Code Generation in Java
+# Basic Example of QR Code Generation in Java
   To Generate QR Code for your application using Java and zxing library.
 
 ## Running This Application Locally
